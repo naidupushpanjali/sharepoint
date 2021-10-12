@@ -2,6 +2,9 @@
 
 ## Summary
 
+- Clone the code and install the node modules.
+- Run **gulp serve** to get the server up and running locally.
+
 Refer to the below URL for the setup of sharepoint in your local server to retrieve the data locally :
 
 [Setup Doc](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
